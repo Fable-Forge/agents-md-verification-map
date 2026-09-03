@@ -1,0 +1,4 @@
+interface:
+  display_name: "AGENTS.md Verification Map"
+  short_description: "Write concrete T0-T3 AGENTS maps."
+  default_prompt: "Use $agents-md-verification-map to audit this project and add or refine a concrete T0-T3 verification map in AGENTS.md."
