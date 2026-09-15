@@ -6,12 +6,17 @@
 
 **为项目建立可执行、分级且与仓库事实一致的 AGENTS.md 验证地图。**
 
-> Build repository-true, tiered verification maps for AGENTS.md.
+<p>Build repository-true, tiered verification maps for AGENTS.md.</p>
 
 <p>
   <a href="https://github.com/Fable-Forge/agents-md-verification-map/blob/main/LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-0969da"></a>
   <img alt="Maturity: beta" src="https://img.shields.io/badge/maturity-beta-8250df">
   <img alt="Agents: Codex and Claude Code" src="https://img.shields.io/badge/agents-Codex_%C2%B7_Claude_Code-1f883d">
+  <a href="https://github.com/Fable-Forge/agents-md-verification-map/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Fable-Forge/agents-md-verification-map?style=social"></a>
+</p>
+
+<p>
+  <strong>如果这个 Skill 帮你更顺利地完成工作，欢迎点个 ⭐，也能帮助更多人发现它。</strong>
 </p>
 
 </div>
